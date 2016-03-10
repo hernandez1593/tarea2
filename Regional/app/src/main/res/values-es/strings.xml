@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Regional</string>
+    <string name="btn1">Botón</string>
+    <string name="txt1">Hola Mundo!</string>
+    <string name="txt2">Nuevo contenido toda la semana!</string>
+</resources>
